@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.hotpotato.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "PlayerDropMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
