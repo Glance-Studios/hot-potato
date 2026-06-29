@@ -1,0 +1,23 @@
+# Gradle
+.gradle/
+build/
+
+# Keep the wrapper jar tracked
+!gradle/wrapper/gradle-wrapper.jar
+
+# Kotlin
+.kotlin/
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# Fabric dev run dir
+run/
+
+# OS
+.DS_Store
+Thumbs.db
