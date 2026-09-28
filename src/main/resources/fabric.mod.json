@@ -4,7 +4,7 @@
   "version": "${version}",
   "name": "Hot Potato",
   "description": "Server-side Hot Potato event: a random player gets a ticking potato - pass it by hitting someone, or explode. Players install nothing.",
-  "authors": ["Cammy"],
+  "authors": ["Glance Studios"],
   "license": "MIT",
   "environment": "*",
   "entrypoints": {
